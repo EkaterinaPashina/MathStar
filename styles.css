@@ -1,0 +1,43 @@
+#button {
+    margin-top: 1rem;
+    border: 3px solid #f5d2d2;
+    border-radius: 16px;
+    background-color: rgb(239, 70, 98);
+    color: #ffffff;
+    padding: 20px 40px;
+    font-size: 1rem;
+}
+
+.comment {
+    width: 50vw;
+    height: 20vh;
+    border: 2px dotted rgb(239, 70, 98);
+    border-radius: 10px;
+
+}
+
+textarea {
+    font-size: 1.5rem;
+}
+
+textarea::placeholder {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(212, 85, 85);
+    padding-left: 35%;
+    padding-top: 5%;
+}
+
+.result {
+    font-size: 1.5rem;
+    color: rgb(64, 139, 64);
+}
+
+.input__value {
+    font-size: 1.5rem;
+    color: rgb(118, 118, 196);
+}
+
+h1 {
+    color: rgb(61, 43, 179);
+}
